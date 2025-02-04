@@ -1,0 +1,13 @@
+.main-body{
+    height: 100vh;
+    width: 100vw;
+    background-image: repeating-radial-gradient(
+      circle at center left,
+      transparent 0,
+      #9e0bae 100px
+    ),
+    repeating-linear-gradient(#ea81d655, #d757e8);
+    overflow-y: auto;
+    border-radius: 30px;
+    display: flex;
+}
