@@ -10,7 +10,7 @@
     "ops-dev": "nodemon --exec \"npm run clear && node server.js\""
   },
   "keywords": [],
-  "author": "Manish Raj",
+  "author": "Druva",
   "license": "ISC",
   "dependencies": {
     "bcrypt": "^5.1.0",
